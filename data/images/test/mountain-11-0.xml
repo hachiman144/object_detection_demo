@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mountain</folder>
+	<filename>mountain-11-0.png</filename>
+	<path>/home/belmark/Desktop/Pose-yoga/MixPose-Jetson-Nano/training/images/mountain/mountain-11-0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>177</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mountain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>23</ymin>
+			<xmax>155</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

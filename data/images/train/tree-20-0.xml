@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>tree-20-0.png</filename>
+	<path>/home/belmark/Desktop/Pose-yoga/MixPose-Jetson-Nano/training/images/tree/tree-20-0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>185</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>120</ymin>
+			<xmax>178</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

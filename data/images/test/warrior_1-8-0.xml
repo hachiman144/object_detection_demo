@@ -1,0 +1,26 @@
+<annotation>
+	<folder>warrior_1</folder>
+	<filename>warrior_1-8-0.png</filename>
+	<path>/home/belmark/Desktop/Pose-yoga/MixPose-Jetson-Nano/training/images/warrior_1/warrior_1-8-0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1136</width>
+		<height>1325</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>warrior_1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>149</ymin>
+			<xmax>700</xmax>
+			<ymax>1020</ymax>
+		</bndbox>
+	</object>
+</annotation>
